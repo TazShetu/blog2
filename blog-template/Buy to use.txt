@@ -1,0 +1,8 @@
+!!!! need to buy for real world use !!!
+
+app folder is in public directory
+
+
+home page is copied to wellcome page
+
+added asset() in link>href and script>src
